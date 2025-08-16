@@ -1,4 +1,4 @@
 title: OXI Documentation
 plugins:
   - jekyll-remote-theme
-remote_theme: Anodyne-Technologies/anodyne-pages@v0.1.0
+remote_theme: anodyne-technologies/anodyne-pages
