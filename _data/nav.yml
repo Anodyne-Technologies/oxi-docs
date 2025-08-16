@@ -1,0 +1,5 @@
+nav:
+  primary:
+    - { title: "Manual", url: "/manual/" }
+    - { title: "Scripting API", url: "/api/" }
+    - { title: "Dev Logs", url: "/devlogs/" }

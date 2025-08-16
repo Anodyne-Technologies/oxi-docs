@@ -1,0 +1,6 @@
+.hero { margin-block: 2rem; }
+.cta-row { display: flex; gap: 1rem; margin-top: 1rem; flex-wrap: wrap; }
+.btn { padding: .6rem 1rem; border-radius: .75rem; border: 1px solid currentColor; text-decoration: none; }
+.search { margin-block: 2rem; }
+#site-search { padding: .6rem .8rem; width: min(720px, 100%); }
+.getting-started { margin-block: 2rem; }
