@@ -1,5 +1,26 @@
-nav:
-  primary:
-    - { title: "Manual", url: "/manual/" }
-    - { title: "Scripting API", url: "/api/" }
-    - { title: "Dev Logs", url: "/devlogs/" }
+- title: Overview
+  url: /
+- title: Getting Started
+  children:
+    - title: Installation
+      url: /getting-started/installation/
+    - title: Quick Start (Unity Rig)
+      url: /getting-started/quick-start-rig/
+- title: Concepts
+  children:
+    - title: Data Pipeline (Providers & Receivers)
+      url: /concepts/data-pipeline/
+- title: Unity
+  children:
+    - title: Pose Pipeline (Input System)
+      url: /unity/pose-pipeline/
+    - title: OXI Rig
+      url: /unity/rig/
+    - title: Support Pack (Input, Prefab, Menu, Sample)
+      url: /unity/support-pack/
+- title: Guides
+  children:
+    - title: Submodules & Workspace
+      url: /guides/submodules/
+- title: Changelog
+  url: /changelog/
