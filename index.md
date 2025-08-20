@@ -14,9 +14,9 @@ A lean XR toolkit for Unity that mirrors OpenXR’s logical structure while avoi
 Unity-only pose pipeline & lightweight rig.
 
 ## Quick links
-- [Installation](/getting-started/installation/)
-- [Quick Start](/getting-started/quick-start-rig/)
-- [Pose Pipeline](/unity/pose-pipeline/)
-- [Rig](/unity/rig/)
-- [Support Pack](/unity/support-pack/)
-- [Changelog](/changelog/)
+- [Installation](getting-started/installation/)
+- [Quick Start](getting-started/quick-start-rig/)
+- [Pose Pipeline](unity/pose-pipeline/)
+- [Rig](unity/rig/)
+- [Support Pack](unity/support-pack/)
+- [Changelog](changelog/)
