@@ -1,4 +1,6 @@
 title: OXI Documentation
+url: "https://anodyne-technologies.github.io"
+baseurl: "/oxi-docs"
 plugins:
   - jekyll-remote-theme
 remote_theme: anodyne-technologies/anodyne-pages

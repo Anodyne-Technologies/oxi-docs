@@ -3,24 +3,24 @@
 - title: Getting Started
   children:
     - title: Installation
-      url: /getting-started/installation/
+      url: /getting-started/installation.html
     - title: Quick Start (Unity Rig)
-      url: /getting-started/quick-start-rig/
+      url: /getting-started/quick-start-rig.html
 - title: Concepts
   children:
     - title: Data Pipeline (Providers & Receivers)
-      url: /concepts/data-pipeline/
+      url: /concepts/data-pipeline.html
 - title: Unity
   children:
     - title: Pose Pipeline (Input System)
-      url: /unity/pose-pipeline/
+      url: /unity/pose-pipeline.html
     - title: OXI Rig
-      url: /unity/rig/
+      url: /unity/rig.html
     - title: Support Pack (Input, Prefab, Menu, Sample)
-      url: /unity/support-pack/
+      url: /unity/support-pack.html
 - title: Guides
   children:
     - title: Submodules & Workspace
-      url: /guides/submodules/
+      url: /guides/submodules.html
 - title: Changelog
-  url: /changelog/
+  url: /changelog.html
